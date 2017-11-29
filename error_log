@@ -1,0 +1,13 @@
+[22-Nov-2017 16:31:02 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/zoop/public_html/wp-includes/wp-db.php on line 1942
+[22-Nov-2017 16:31:02 UTC] PHP Warning:  Empty row packet body in /home/zoop/public_html/wp-includes/wp-db.php on line 1942
+[22-Nov-2017 16:31:02 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/zoop/public_html/wp-includes/wp-db.php on line 1942
+[22-Nov-2017 16:31:02 UTC] PHP Warning:  mysqli_query(): (00000/0):  in /home/zoop/public_html/wp-includes/wp-db.php on line 1942
+[22-Nov-2017 16:31:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=29158 in /home/zoop/public_html/wp-includes/wp-db.php on line 1942
+[22-Nov-2017 16:31:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zoop/public_html/wp-includes/wp-db.php:1942) in /home/zoop/public_html/wp-includes/functions.php on line 3760
+[22-Nov-2017 16:31:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zoop/public_html/wp-includes/wp-db.php:1942) in /home/zoop/public_html/wp-includes/functions.php on line 3760
+[22-Nov-2017 16:36:56 UTC] PHP Warning:  Empty row packet body in /home/zoop/public_html/wp-includes/wp-db.php on line 1942
+[22-Nov-2017 16:37:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=32032 in /home/zoop/public_html/wp-includes/wp-db.php on line 1942
+[22-Nov-2017 16:37:08 UTC] PHP Warning:  mysqli_query(): (00000/0):  in /home/zoop/public_html/wp-includes/wp-db.php on line 1942
+[22-Nov-2017 16:37:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=32673 in /home/zoop/public_html/wp-includes/wp-db.php on line 1942
+[22-Nov-2017 16:37:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zoop/public_html/wp-includes/wp-db.php:1942) in /home/zoop/public_html/wp-includes/functions.php on line 3760
+[22-Nov-2017 16:37:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zoop/public_html/wp-includes/wp-db.php:1942) in /home/zoop/public_html/wp-includes/functions.php on line 3760
